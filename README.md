@@ -93,6 +93,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+![Alt](https://repobeats.axiom.co/api/embed/f79bc689f2eb4216a33dedb6fa66f9c36426ecd8.svg "Repobeats analytics image")
 
 <!-- GETTING STARTED -->
 ## Getting Started
